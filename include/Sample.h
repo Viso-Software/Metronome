@@ -1,0 +1,10 @@
+#ifndef SAMPLE_ENUM_H_
+#define SAMPLE_ENUM_H_
+
+enum Sample
+{
+    SAMPLE_BLOCK=0, SAMPLE_TICK, SAMPLE_CYMBOL, SAMPLE_KICK,
+
+};
+
+#endif // SAMPLE_ENUM_H_
